@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+
+
+# Unit test / coverage reports
+.pytest_cache/
+
+# Environments
+.venv
+/.mypy_cache/
+/.idea
+/src/client_secrets.json
+/src/.env
+/main.py
+/src/db.sqlite3
+/src/mycreds.txt
+/requirements.txt
